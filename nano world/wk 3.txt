@@ -1,0 +1,19 @@
+synthesis of material 
+
+what is nano technology:
+production technology to get the extra high accuracy and ultra fine dimensions (preciseness and fineness in nanometer)
+
+definition of nano tech more specific to material (more accurate):
+creation of functional materials, devices or systems through the control of said material on nanometer scale
+-> function of that material or system becomes better
+
+third definition (though not as focused on):
+understanding and control of matter at a scale of 1 to 100 nanometers
+
+examples:
+hair dyes - ancient egyptians used lead oxide and something else i forgot to colour their hair
+-> making use of chemicals to dye hair
+
+
+new tools for atomic scale characterization -> new capabilities to atom manipulation
+computational access to large systems of atoms and long time scales (whatever this means)

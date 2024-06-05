@@ -1,0 +1,33 @@
+the shorter the story, the harder to work with story
+
+
+structure of creating stories:
+------------------------------
+synopsis
+
+outline: take the essentials
+
+act structure:
+act 1 -> 
+	--> introduction: set up the characters
+	--> inciting incident: something out of the ordinary 	happens
+	--> plot 1: the problem for the characters
+act 2 ->
+	--> pinch 1: villain show their power
+	--> midpoint: show the context of the story
+	--> pinch 2: higher stakes
+	--> plot 2: significant turning point to solve the 	problem
+act 3 ->
+	--> climax: final moment of conflict
+	--> resolution: wrap up the story
+	--> end
+
+
+how to make interesting story:
+------------------------------
+- avoid convenient solutions
+- show not tell
+- develop protagonist
+
+
+

@@ -1,0 +1,16 @@
+- about the history of the universe
+	-> **not required for assignment, but helpful for 	developing story**
+
+--------------------------------------------------------
+taking approach of game mechanics first then write story
+--------------------------------------------------------
+
+think of what can cause conflict within the universe
+-> how are you going to represent game genre in the story
+
+need overarching conflict
+-> I fucking forgot wat he said
+
+what event must happen for the story to progress
+-> event can let player gain a reward (eg. stronger gun, level up character, get equipment)
+

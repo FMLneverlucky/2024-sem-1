@@ -1,0 +1,37 @@
+branching narratives
+--------------------
+- user experiences a **unique story based on their interactions and choices**
+- games have *large emphasis on story*
+- adventure games provide the most direct way of *narrative implementaion* into a play
+
+recommendations:
+heavy rain
+-> story qn: will mc be able to save his son
+the walking dead
+-> inciting incident: mc meets clementine
+-> story qn: can mc bring clementine to find her family
+maki island
+
+examples from fighting fantasy gamebook:
+house of hell
+
+important points to consider:
+- **what kind of choice are you making the player make**
+- the more interesting the choices, the more engaging the story
+- moral points, the pros and cons of each choice
+- choices need to be probable**
+
+example:
+sugarcane island
+batman
+-> need to consider what thoughts the player think of
+-> consider if game will be probable to happen or interesting to explore during replay 
+
+- avoid random choices
+
+
+conditional events
+------------------
+can improve replayability
+
+

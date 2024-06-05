@@ -1,0 +1,43 @@
+materials with dimensions less than 1000 nanometer
+
+classification
+--------------
+classify by amount of dimensions
+-> 0 dimension
+	-> in xyz direction
+	-> eg. buckyballs, quantum dots
+-> 1 dimension
+	-> nanoscale in 2 direction
+	-> eg. nanowires, nanotubes (can search carbon nanotube), nanorods 
+-> 2 dimension
+	-> 1 direction
+	-> eg. nano coatings, thin film, hydrophobic coating on car windscreen
+-> 3 dimension
+	-> materials with nanocrystalline structure display nanoscale features
+	-> can be bigger than nanoscale
+
+nanomaterials
+-------------
+- can be naturally occurring or synthetic
+	-> natural occurring
+		-> eg. fine sand, dust, volcanic ash
+	-> man made
+		-> plastic
+
+nanostructure
+-------------
+- a structure that can be made synthetically
+
+making nanomaterials
+---------------------
+- bottom up approach
+	-> like lego set
+	-> layer atoms and molecules chemically
+- top down approach
+	-> cutting away material
+	-> from big cut to smaller fragments
+
+which method is better
+----------------------
+- top down approach is slow and expensive
+- bottom up approach cheaper and faster, but process is synthesizing using chemicals

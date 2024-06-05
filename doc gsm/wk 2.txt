@@ -1,0 +1,7 @@
+mail merge -> improve processing of document
+
+auto translate tool (changes depending on version)
+-> needs to be connected to internet
+-> review > translate
+-> select language to translate to
+-> select translate document
