@@ -1,14 +1,14 @@
-<mxfile host="Electron" modified="2024-06-25T05:59:10.694Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.1 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="wrNLZCE8K38VPjI_nJUt" version="24.6.1" type="device">
+<mxfile host="Electron" modified="2024-06-26T04:49:20.341Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.1 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="fHpPd1AUbLTN10IGAdIC" version="24.6.1" type="device">
   <diagram name="Page-1" id="IfXCN_26sNDZPyj4Ke5A">
-    <mxGraphModel dx="3791" dy="1463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#696969" math="0" shadow="0">
+    <mxGraphModel dx="3949" dy="2186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#696969" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VE0gZClU5C7Papq9GJgM-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;fontSize=16;autosize=0;fontColor=#080808;rotation=0;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="-2262.5" y="1190" width="1142.5" height="140" as="geometry" />
+        <mxCell id="VE0gZClU5C7Papq9GJgM-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;fontSize=16;autosize=0;fontColor=#080808;rotation=0;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="-2257.54" y="1111.2" width="1142.5" height="140" as="geometry" />
         </mxCell>
         <mxCell id="rzeLRMac2jVEvDv4LcSN-7" value="&lt;div&gt;yes i didnt put this anywhere before, but the crystals out of nowhere at the end is way too abrupt, so here it is&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;autosize=0;fontColor=#080808;aspect=fixed;rotation=5;direction=west;" parent="1" vertex="1">
-          <mxGeometry x="-1485.1299999999999" y="807.28" width="303.58" height="93.41" as="geometry" />
+          <mxGeometry x="-1480.1699999999998" y="728.48" width="303.58" height="93.41" as="geometry" />
         </mxCell>
         <mxCell id="R7KhLLLYdQG6cB8DqTUe-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;fontSize=16;autosize=1;fontColor=#080808;strokeWidth=4;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-720" y="-360" width="360" height="230" as="geometry" />
@@ -194,25 +194,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GzvHI5Ee-rDhzpsascGL-49" value="god grants you power to defeat the&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;evil spirit (and save the world)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="-1915" y="680" width="490" height="92.77" as="geometry" />
+          <mxGeometry x="-1910.04" y="601.2" width="490" height="92.77" as="geometry" />
         </mxCell>
         <mxCell id="GzvHI5Ee-rDhzpsascGL-57" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#7DFF69;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="GzvHI5Ee-rDhzpsascGL-52" target="GzvHI5Ee-rDhzpsascGL-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GzvHI5Ee-rDhzpsascGL-52" value="&amp;nbsp;a) you had a close relationship with the other villagers, so you agreed to help the god without hesitation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" parent="1" vertex="1">
-          <mxGeometry x="-1990" y="364" width="280" height="110" as="geometry" />
+          <mxGeometry x="-1989.99" y="330" width="280" height="110" as="geometry" />
         </mxCell>
         <mxCell id="GzvHI5Ee-rDhzpsascGL-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFD966;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="GzvHI5Ee-rDhzpsascGL-56" target="GzvHI5Ee-rDhzpsascGL-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GzvHI5Ee-rDhzpsascGL-56" value="1.4) the god is thankful for your coorperation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" parent="1" vertex="1">
-          <mxGeometry x="-1825" y="570" width="310" height="60" as="geometry" />
+          <mxGeometry x="-1820.04" y="491.20000000000005" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rzeLRMac2jVEvDv4LcSN-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFD966;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="GzvHI5Ee-rDhzpsascGL-59" target="GzvHI5Ee-rDhzpsascGL-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GzvHI5Ee-rDhzpsascGL-59" value="b) you hesitate as you are unsure if you are capable enough, but with some encouragement from the god, you agreed to help" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" parent="1" vertex="1">
-          <mxGeometry x="-1660" y="374" width="280" height="90" as="geometry" />
+          <mxGeometry x="-1659.99" y="340" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="GzvHI5Ee-rDhzpsascGL-62" value="&lt;div&gt;imagine if i made the god have different personalities reflecting players personality&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;autosize=0;fontColor=#080808;aspect=fixed;rotation=355;direction=west;" parent="1" vertex="1">
           <mxGeometry x="-2300" y="242.31" width="317.49" height="97.69" as="geometry" />
@@ -224,10 +224,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rzeLRMac2jVEvDv4LcSN-4" value="god gifts you some magic crystals that he thinks would help" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="-1830" y="823.69" width="320" height="60.59" as="geometry" />
+          <mxGeometry x="-1825.04" y="744.8900000000001" width="320" height="60.59" as="geometry" />
         </mxCell>
         <mxCell id="rzeLRMac2jVEvDv4LcSN-5" value="&lt;div&gt;shameless foreshadowing lmao&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;autosize=0;fontColor=#080808;aspect=fixed;rotation=355;direction=west;" parent="1" vertex="1">
-          <mxGeometry x="-2080" y="820.14" width="219.99" height="67.69" as="geometry" />
+          <mxGeometry x="-2075.04" y="741.34" width="219.99" height="67.69" as="geometry" />
         </mxCell>
         <mxCell id="rzeLRMac2jVEvDv4LcSN-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFD966;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="rzeLRMac2jVEvDv4LcSN-9" target="rzeLRMac2jVEvDv4LcSN-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -236,22 +236,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rzeLRMac2jVEvDv4LcSN-9" value="god sends you to the sky castle" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="-1795" y="940" width="250" height="47.33" as="geometry" />
+          <mxGeometry x="-1790.04" y="861.2" width="250" height="47.33" as="geometry" />
         </mxCell>
         <mxCell id="rzeLRMac2jVEvDv4LcSN-11" value="&lt;div&gt;tutorial time :D&lt;/div&gt;&lt;div&gt;make scenario where player skip the tutorial because why not kek&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;autosize=0;fontColor=#080808;aspect=fixed;rotation=0;direction=west;" parent="1" vertex="1">
-          <mxGeometry x="-2232.5" y="950" width="249.99" height="76.92" as="geometry" />
+          <mxGeometry x="-2227.54" y="871.2" width="249.99" height="76.92" as="geometry" />
         </mxCell>
         <mxCell id="rzeLRMac2jVEvDv4LcSN-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFD966;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="rzeLRMac2jVEvDv4LcSN-13" target="rzeLRMac2jVEvDv4LcSN-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rzeLRMac2jVEvDv4LcSN-13" value="you follow the god&#39;s guidance on how to fight against your enemy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="-1822.5" y="1081.9" width="305" height="57.74" as="geometry" />
+          <mxGeometry x="-1817.54" y="1003.1000000000001" width="305" height="57.74" as="geometry" />
         </mxCell>
         <mxCell id="rzeLRMac2jVEvDv4LcSN-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#7DFF69;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="rzeLRMac2jVEvDv4LcSN-12" target="rzeLRMac2jVEvDv4LcSN-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rzeLRMac2jVEvDv4LcSN-12" value="you hesitate to bring your sword down on your enemy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="-2195" y="1080" width="315" height="59.64" as="geometry" />
+          <mxGeometry x="-2190.04" y="1001.2" width="315" height="59.64" as="geometry" />
         </mxCell>
         <mxCell id="rzeLRMac2jVEvDv4LcSN-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#7DFF69;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="rzeLRMac2jVEvDv4LcSN-9" target="rzeLRMac2jVEvDv4LcSN-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -260,179 +260,279 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rzeLRMac2jVEvDv4LcSN-15" value="you rush towards the first enemy you see even though god warns you not approach your enemies hastily" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" parent="1" vertex="1">
-          <mxGeometry x="-1455" y="1070" width="280" height="90" as="geometry" />
+          <mxGeometry x="-1450.04" y="991.2" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="uK1rEPxBVsfrKBv4Sku4-5" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#7DFF69;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rzeLRMac2jVEvDv4LcSN-18" target="VE0gZClU5C7Papq9GJgM-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rzeLRMac2jVEvDv4LcSN-18" value="you recieve a light cut from the enemy. That was enough to strengthen your resolve to take the group of enemies down" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" parent="1" vertex="1">
-          <mxGeometry x="-2192.5" y="1210" width="310" height="100" as="geometry" />
+          <mxGeometry x="-2187.54" y="1131.2" width="310" height="100" as="geometry" />
         </mxCell>
         <mxCell id="uK1rEPxBVsfrKBv4Sku4-4" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFD966;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="rzeLRMac2jVEvDv4LcSN-21" target="VE0gZClU5C7Papq9GJgM-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rzeLRMac2jVEvDv4LcSN-21" value="you cleared your first group of enemies without a problem" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" parent="1" vertex="1">
-          <mxGeometry x="-1825" y="1210" width="310" height="100" as="geometry" />
+          <mxGeometry x="-1820.04" y="1131.2" width="310" height="100" as="geometry" />
         </mxCell>
         <mxCell id="uK1rEPxBVsfrKBv4Sku4-6" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#66F5FF;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="rzeLRMac2jVEvDv4LcSN-22" target="VE0gZClU5C7Papq9GJgM-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rzeLRMac2jVEvDv4LcSN-22" value="with some difficulty (and injuries?), you manage to take down your first group of enemies" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" parent="1" vertex="1">
-          <mxGeometry x="-1470" y="1210" width="310" height="100" as="geometry" />
+          <mxGeometry x="-1465.04" y="1131.2" width="310" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-5" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#66F5FF;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uK1rEPxBVsfrKBv4Sku4-1" target="VE0gZClU5C7Papq9GJgM-1">
+        <mxCell id="VE0gZClU5C7Papq9GJgM-5" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#66F5FF;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="uK1rEPxBVsfrKBv4Sku4-1" target="VE0gZClU5C7Papq9GJgM-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1600" y="1760" as="sourcePoint" />
+            <mxPoint x="-1595.04" y="1681.2" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-24" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFD966;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="uK1rEPxBVsfrKBv4Sku4-1" target="VE0gZClU5C7Papq9GJgM-20">
+        <mxCell id="VE0gZClU5C7Papq9GJgM-24" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFD966;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="uK1rEPxBVsfrKBv4Sku4-1" target="VE0gZClU5C7Papq9GJgM-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-25" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#7DFF69;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="uK1rEPxBVsfrKBv4Sku4-1" target="VE0gZClU5C7Papq9GJgM-21">
+        <mxCell id="VE0gZClU5C7Papq9GJgM-25" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#7DFF69;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="uK1rEPxBVsfrKBv4Sku4-1" target="VE0gZClU5C7Papq9GJgM-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uK1rEPxBVsfrKBv4Sku4-1" value="you start exploring the place to locate the stolen cores" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#A9C4EB;fontSize=16;autosize=0;" parent="1" vertex="1">
-          <mxGeometry x="-1780.13" y="1710" width="230" height="50" as="geometry" />
+          <mxGeometry x="-1775.17" y="1631.2" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-38" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#66F5FF;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VE0gZClU5C7Papq9GJgM-1" target="VE0gZClU5C7Papq9GJgM-37">
+        <mxCell id="VE0gZClU5C7Papq9GJgM-38" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#66F5FF;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VE0gZClU5C7Papq9GJgM-1" target="VE0gZClU5C7Papq9GJgM-37" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1399.5714285714284" y="1940" as="targetPoint" />
+            <mxPoint x="-1394.6114285714284" y="1861.2" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-1" value="kill every enemy you come across" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" vertex="1" parent="1">
-          <mxGeometry x="-1513.88" y="1840" width="230" height="50" as="geometry" />
+        <mxCell id="VE0gZClU5C7Papq9GJgM-1" value="kill every enemy you come across" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" parent="1" vertex="1">
+          <mxGeometry x="-1508.92" y="1761.2" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#A9C4EB;endArrow=none;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VE0gZClU5C7Papq9GJgM-2" target="uK1rEPxBVsfrKBv4Sku4-1">
+        <mxCell id="VE0gZClU5C7Papq9GJgM-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#A9C4EB;endArrow=none;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="VE0gZClU5C7Papq9GJgM-2" target="uK1rEPxBVsfrKBv4Sku4-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-2" value="try to find cores?&lt;div&gt;doesnt make a lot of sense to clear the army before finding&lt;/div&gt;&lt;div&gt;need to be more like clearing enemies while looking for place&lt;/div&gt;&lt;div&gt;(context: it was protagonist defeating enemy army before change)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;autosize=0;fontColor=#080808;rotation=5;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="-1379.91" y="1667.93" width="440" height="150" as="geometry" />
+        <mxCell id="VE0gZClU5C7Papq9GJgM-2" value="try to find cores?&lt;div&gt;doesnt make a lot of sense to clear the army before finding&lt;/div&gt;&lt;div&gt;need to be more like clearing enemies while looking for place&lt;/div&gt;&lt;div&gt;(context: it was protagonist defeating enemy army before change)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;autosize=0;fontColor=#080808;rotation=5;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="-1374.95" y="1589.13" width="440" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-7" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#A9C4EB;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.166;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VE0gZClU5C7Papq9GJgM-6" target="VE0gZClU5C7Papq9GJgM-8">
+        <mxCell id="VE0gZClU5C7Papq9GJgM-7" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#A9C4EB;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.166;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="VE0gZClU5C7Papq9GJgM-6" target="VE0gZClU5C7Papq9GJgM-8" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1310" y="1360" as="targetPoint" />
+            <mxPoint x="-1305.04" y="1281.2" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1310" y="1450" />
+              <mxPoint x="-1305.04" y="1371.2" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-13" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#7DFF69;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="VE0gZClU5C7Papq9GJgM-6" target="VE0gZClU5C7Papq9GJgM-10">
+        <mxCell id="VE0gZClU5C7Papq9GJgM-13" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#7DFF69;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="VE0gZClU5C7Papq9GJgM-6" target="VE0gZClU5C7Papq9GJgM-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-14" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFD966;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="VE0gZClU5C7Papq9GJgM-6" target="VE0gZClU5C7Papq9GJgM-11">
+        <mxCell id="VE0gZClU5C7Papq9GJgM-14" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFD966;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="VE0gZClU5C7Papq9GJgM-6" target="VE0gZClU5C7Papq9GJgM-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-15" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#66F5FF;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="VE0gZClU5C7Papq9GJgM-6" target="VE0gZClU5C7Papq9GJgM-12">
+        <mxCell id="VE0gZClU5C7Papq9GJgM-15" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#66F5FF;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="VE0gZClU5C7Papq9GJgM-6" target="VE0gZClU5C7Papq9GJgM-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-6" value="(end of tutorial, receive buff based on way result)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" vertex="1" parent="1">
-          <mxGeometry x="-1822.5" y="1400" width="310" height="100" as="geometry" />
+        <mxCell id="VE0gZClU5C7Papq9GJgM-6" value="(end of tutorial, receive buff based on way result)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" parent="1" vertex="1">
+          <mxGeometry x="-1817.54" y="1321.2" width="310" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-9" value="am trying to refer to this&lt;div&gt;i struggle to phrase properly yes&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;autosize=0;fontColor=#080808;aspect=fixed;rotation=0;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="-1300" y="1360" width="227.5" height="70" as="geometry" />
+        <mxCell id="VE0gZClU5C7Papq9GJgM-9" value="am trying to refer to this&lt;div&gt;i struggle to phrase properly yes&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;autosize=0;fontColor=#080808;aspect=fixed;rotation=0;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="-1295.04" y="1281.2" width="227.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-17" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#7DFF69;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VE0gZClU5C7Papq9GJgM-10" target="uK1rEPxBVsfrKBv4Sku4-1">
+        <mxCell id="VE0gZClU5C7Papq9GJgM-17" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#7DFF69;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VE0gZClU5C7Papq9GJgM-10" target="uK1rEPxBVsfrKBv4Sku4-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1730" y="1760" as="targetPoint" />
+            <mxPoint x="-1725.04" y="1681.2" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-10" value="receive defense buff" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" vertex="1" parent="1">
-          <mxGeometry x="-2062.5" y="1570" width="172.5" height="50" as="geometry" />
+        <mxCell id="VE0gZClU5C7Papq9GJgM-10" value="receive defense buff" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" parent="1" vertex="1">
+          <mxGeometry x="-2057.54" y="1491.2" width="172.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-18" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFD966;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="VE0gZClU5C7Papq9GJgM-11" target="uK1rEPxBVsfrKBv4Sku4-1">
+        <mxCell id="VE0gZClU5C7Papq9GJgM-18" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFD966;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="VE0gZClU5C7Papq9GJgM-11" target="uK1rEPxBVsfrKBv4Sku4-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-11" value="receive luck buff (god&#39;s favour)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" vertex="1" parent="1">
-          <mxGeometry x="-1753.75" y="1580" width="172.5" height="50" as="geometry" />
+        <mxCell id="VE0gZClU5C7Papq9GJgM-11" value="receive luck buff (god&#39;s favour)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" parent="1" vertex="1">
+          <mxGeometry x="-1748.79" y="1501.2" width="172.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-19" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#66F5FF;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VE0gZClU5C7Papq9GJgM-12" target="uK1rEPxBVsfrKBv4Sku4-1">
+        <mxCell id="VE0gZClU5C7Papq9GJgM-19" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#66F5FF;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VE0gZClU5C7Papq9GJgM-12" target="uK1rEPxBVsfrKBv4Sku4-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1550" y="1760" as="targetPoint" />
+            <mxPoint x="-1545.04" y="1681.2" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-12" value="receive health buff" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" vertex="1" parent="1">
-          <mxGeometry x="-1485.1299999999999" y="1580" width="172.5" height="50" as="geometry" />
+        <mxCell id="VE0gZClU5C7Papq9GJgM-12" value="receive health buff" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" parent="1" vertex="1">
+          <mxGeometry x="-1480.1699999999998" y="1501.2" width="172.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-32" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFD966;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="VE0gZClU5C7Papq9GJgM-20" target="VE0gZClU5C7Papq9GJgM-31">
+        <mxCell id="VE0gZClU5C7Papq9GJgM-32" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFD966;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="VE0gZClU5C7Papq9GJgM-20" target="VE0gZClU5C7Papq9GJgM-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-20" value="capture and interrogate some enemies along the way" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" vertex="1" parent="1">
-          <mxGeometry x="-1780.13" y="1840" width="230" height="50" as="geometry" />
+        <mxCell id="VE0gZClU5C7Papq9GJgM-20" value="capture and interrogate some enemies along the way" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" parent="1" vertex="1">
+          <mxGeometry x="-1775.17" y="1761.2" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-28" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#7DFF69;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="VE0gZClU5C7Papq9GJgM-21" target="VE0gZClU5C7Papq9GJgM-26">
+        <mxCell id="VE0gZClU5C7Papq9GJgM-28" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#7DFF69;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="VE0gZClU5C7Papq9GJgM-21" target="VE0gZClU5C7Papq9GJgM-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-21" value="capture and negotiate with enemies in exchange for their freedom" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" vertex="1" parent="1">
-          <mxGeometry x="-2085" y="1830" width="230" height="70" as="geometry" />
+        <mxCell id="VE0gZClU5C7Papq9GJgM-21" value="capture and negotiate with enemies in exchange for their freedom" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" parent="1" vertex="1">
+          <mxGeometry x="-2080.04" y="1751.2" width="230" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-23" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#A9C4EB;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="VE0gZClU5C7Papq9GJgM-22" target="VE0gZClU5C7Papq9GJgM-21">
+        <mxCell id="VE0gZClU5C7Papq9GJgM-23" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#A9C4EB;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="VE0gZClU5C7Papq9GJgM-22" target="VE0gZClU5C7Papq9GJgM-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-22" value="questionable branch here" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;autosize=0;fontColor=#080808;aspect=fixed;rotation=0;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="-2410" y="1830" width="227.5" height="70" as="geometry" />
+        <mxCell id="VE0gZClU5C7Papq9GJgM-22" value="questionable branch here" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;autosize=0;fontColor=#080808;aspect=fixed;rotation=0;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="-2405.04" y="1751.2" width="227.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-34" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#7DFF69;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="VE0gZClU5C7Papq9GJgM-26" target="VE0gZClU5C7Papq9GJgM-33">
+        <mxCell id="VE0gZClU5C7Papq9GJgM-34" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#7DFF69;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="VE0gZClU5C7Papq9GJgM-26" target="VE0gZClU5C7Papq9GJgM-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-26" value="an enemy was so grateful it betrayed his leader and told you where the stolen cores are" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" vertex="1" parent="1">
-          <mxGeometry x="-2085.01" y="1980" width="230" height="70" as="geometry" />
+        <mxCell id="VE0gZClU5C7Papq9GJgM-26" value="an enemy was so grateful it betrayed his leader and told you where the stolen cores are" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" parent="1" vertex="1">
+          <mxGeometry x="-2080.05" y="1901.2" width="230" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-30" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#A9C4EB;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="VE0gZClU5C7Papq9GJgM-29" target="VE0gZClU5C7Papq9GJgM-26">
+        <mxCell id="VE0gZClU5C7Papq9GJgM-30" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#A9C4EB;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="VE0gZClU5C7Papq9GJgM-29" target="VE0gZClU5C7Papq9GJgM-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-29" value="very questionable convenience" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;autosize=0;fontColor=#080808;aspect=fixed;rotation=0;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="-2400" y="1990" width="227.5" height="70" as="geometry" />
+        <mxCell id="VE0gZClU5C7Papq9GJgM-29" value="very questionable convenience" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;autosize=0;fontColor=#080808;aspect=fixed;rotation=0;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="-2395.04" y="1911.2" width="227.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-35" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFD966;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="VE0gZClU5C7Papq9GJgM-31" target="VE0gZClU5C7Papq9GJgM-33">
+        <mxCell id="VE0gZClU5C7Papq9GJgM-35" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFD966;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="VE0gZClU5C7Papq9GJgM-31" target="VE0gZClU5C7Papq9GJgM-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-31" value="an enemy revealed the location of the stolen cores out of fear" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" vertex="1" parent="1">
-          <mxGeometry x="-1780.13" y="1980" width="230" height="70" as="geometry" />
+        <mxCell id="VE0gZClU5C7Papq9GJgM-31" value="an enemy revealed the location of the stolen cores out of fear" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" parent="1" vertex="1">
+          <mxGeometry x="-1775.17" y="1901.2" width="230" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-45" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFD966;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="VE0gZClU5C7Papq9GJgM-33" target="VE0gZClU5C7Papq9GJgM-44">
+        <mxCell id="VE0gZClU5C7Papq9GJgM-45" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFD966;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="VE0gZClU5C7Papq9GJgM-33" target="VE0gZClU5C7Papq9GJgM-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-33" value="you find where the stolen cores are kept without any major difficulty" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" vertex="1" parent="1">
-          <mxGeometry x="-1930.0000000000002" y="2150" width="230" height="70" as="geometry" />
+        <mxCell id="VE0gZClU5C7Papq9GJgM-33" value="you find where the stolen cores are kept without any major difficulty" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" parent="1" vertex="1">
+          <mxGeometry x="-1925.0400000000002" y="2071.2" width="230" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-41" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#66F5FF;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="VE0gZClU5C7Papq9GJgM-37" target="VE0gZClU5C7Papq9GJgM-40">
+        <mxCell id="VE0gZClU5C7Papq9GJgM-41" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#66F5FF;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="VE0gZClU5C7Papq9GJgM-37" target="VE0gZClU5C7Papq9GJgM-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-37" value="you struggle to navigate the confusing castle and encountered traps along the way" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" vertex="1" parent="1">
-          <mxGeometry x="-1510" y="1970" width="230" height="90" as="geometry" />
+        <mxCell id="VE0gZClU5C7Papq9GJgM-37" value="you struggle to navigate the confusing castle and encountered traps along the way" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" parent="1" vertex="1">
+          <mxGeometry x="-1505.04" y="1891.2" width="230" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-46" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#66F5FF;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="VE0gZClU5C7Papq9GJgM-40" target="VE0gZClU5C7Papq9GJgM-44">
+        <mxCell id="VE0gZClU5C7Papq9GJgM-46" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#66F5FF;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="VE0gZClU5C7Papq9GJgM-40" target="VE0gZClU5C7Papq9GJgM-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-40" value="you finally find the stolen cores" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" vertex="1" parent="1">
-          <mxGeometry x="-1510" y="2140" width="230" height="90" as="geometry" />
+        <mxCell id="VE0gZClU5C7Papq9GJgM-40" value="you finally find the stolen cores" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" parent="1" vertex="1">
+          <mxGeometry x="-1505.04" y="2061.2" width="230" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-43" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#A9C4EB;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="VE0gZClU5C7Papq9GJgM-42" target="VE0gZClU5C7Papq9GJgM-1">
+        <mxCell id="VE0gZClU5C7Papq9GJgM-43" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#A9C4EB;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="VE0gZClU5C7Papq9GJgM-42" target="VE0gZClU5C7Papq9GJgM-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-42" value="protagonist grinding exp&amp;nbsp; &#39; -&#39;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;autosize=0;fontColor=#080808;aspect=fixed;rotation=0;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="-1175" y="1900" width="227.5" height="70" as="geometry" />
+        <mxCell id="VE0gZClU5C7Papq9GJgM-42" value="protagonist grinding exp&amp;nbsp; &#39; -&#39;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;autosize=0;fontColor=#080808;aspect=fixed;rotation=0;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="-1205.04" y="1781.2" width="227.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-48" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#A9C4EB;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="VE0gZClU5C7Papq9GJgM-44" target="VE0gZClU5C7Papq9GJgM-47">
+        <mxCell id="VE0gZClU5C7Papq9GJgM-48" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#A9C4EB;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="VE0gZClU5C7Papq9GJgM-44" target="VE0gZClU5C7Papq9GJgM-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-50" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFD966;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="VE0gZClU5C7Papq9GJgM-44" target="VE0gZClU5C7Papq9GJgM-49">
+        <mxCell id="VE0gZClU5C7Papq9GJgM-50" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFD966;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="VE0gZClU5C7Papq9GJgM-44" target="VE0gZClU5C7Papq9GJgM-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-52" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#66F5FF;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="VE0gZClU5C7Papq9GJgM-44" target="VE0gZClU5C7Papq9GJgM-51">
+        <mxCell id="VE0gZClU5C7Papq9GJgM-52" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#66F5FF;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="VE0gZClU5C7Papq9GJgM-44" target="VE0gZClU5C7Papq9GJgM-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-44" value="before you could free the cores, the evil spirit (king?) ambushes you" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" vertex="1" parent="1">
-          <mxGeometry x="-1715.13" y="2310" width="230" height="70" as="geometry" />
+        <mxCell id="VE0gZClU5C7Papq9GJgM-44" value="before you could free the cores, the evil spirit (king?) ambushes you" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" parent="1" vertex="1">
+          <mxGeometry x="-1735.04" y="2231.2" width="254.87" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-47" value="he been camping all this time?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;autosize=0;fontColor=#080808;aspect=fixed;rotation=0;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="-1417.5" y="2310" width="227.5" height="70" as="geometry" />
+        <mxCell id="VE0gZClU5C7Papq9GJgM-47" value="he been camping all this time?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;autosize=0;fontColor=#080808;aspect=fixed;rotation=0;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="-1412.54" y="2231.2" width="227.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-49" value="you tried your best to fight against the spirit, but you were overpowered and killed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" vertex="1" parent="1">
-          <mxGeometry x="-1900.0000000000002" y="2450" width="230" height="70" as="geometry" />
+        <mxCell id="2c7s5q9khPjJ-p4RR82g-3" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFD966;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="VE0gZClU5C7Papq9GJgM-49" target="2c7s5q9khPjJ-p4RR82g-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VE0gZClU5C7Papq9GJgM-51" value="having gained suffiencient experience from the countless encounters with his army, you were able to fight on par with the spirit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" vertex="1" parent="1">
-          <mxGeometry x="-1605" y="2450" width="305" height="100" as="geometry" />
+        <mxCell id="VE0gZClU5C7Papq9GJgM-49" value="you tried your best to fight against the spirit, but you were overpowered." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" parent="1" vertex="1">
+          <mxGeometry x="-1895.0400000000002" y="2371.2" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Outt-eAOpPufW3IrGUDu-5" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#66F5FF;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VE0gZClU5C7Papq9GJgM-51" target="Outt-eAOpPufW3IrGUDu-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1445.04" y="2791.2" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VE0gZClU5C7Papq9GJgM-51" value="having gained suffiencient experience from the countless encounters with his army, you were able to fight on par with the spirit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" parent="1" vertex="1">
+          <mxGeometry x="-1600.04" y="2356.2" width="305" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Outt-eAOpPufW3IrGUDu-9" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFD966;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="2c7s5q9khPjJ-p4RR82g-1" target="Outt-eAOpPufW3IrGUDu-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2c7s5q9khPjJ-p4RR82g-1" value="your core was stolen by the spirit and you die" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" parent="1" vertex="1">
+          <mxGeometry x="-1892.6700000000003" y="2521.2" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Outt-eAOpPufW3IrGUDu-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#A9C4EB;" edge="1" parent="1" source="Outt-eAOpPufW3IrGUDu-1" target="VE0gZClU5C7Papq9GJgM-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Outt-eAOpPufW3IrGUDu-1" value="initially planned the king to kill protagonist, but thought it would be more interesting to make use of god&#39;s favour in protagonist" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;autosize=0;fontColor=#080808;aspect=fixed;rotation=0;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="-2215.04" y="2364.66" width="270" height="83.08" as="geometry" />
+        </mxCell>
+        <mxCell id="Outt-eAOpPufW3IrGUDu-16" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFD966;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="Outt-eAOpPufW3IrGUDu-6" target="Outt-eAOpPufW3IrGUDu-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Outt-eAOpPufW3IrGUDu-6" value="the crystals given by god resurrects you by acting as your core and empowers you" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" vertex="1" parent="1">
+          <mxGeometry x="-1908.86" y="2661.2" width="262.37" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Outt-eAOpPufW3IrGUDu-8" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#A9C4EB;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="Outt-eAOpPufW3IrGUDu-7" target="2c7s5q9khPjJ-p4RR82g-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Outt-eAOpPufW3IrGUDu-7" value="should i add more lore to justify antagonist&#39;s action&lt;div&gt;kind of lazy though&lt;/div&gt;&lt;div&gt;a bit late to add context before boss encounter&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;autosize=0;fontColor=#080808;aspect=fixed;rotation=0;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="-2310.0299999999997" y="2461.2" width="324.99" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Outt-eAOpPufW3IrGUDu-10" value="i just realised i threw the whole story format out of the window while doing branches&lt;div&gt;wonderful&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;autosize=0;fontColor=#080808;aspect=fixed;rotation=0;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="-1270.4099999999999" y="2491.2" width="324.99" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Outt-eAOpPufW3IrGUDu-12" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#A9C4EB;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" target="2c7s5q9khPjJ-p4RR82g-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2190.04" y="2606.2" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Outt-eAOpPufW3IrGUDu-14" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#A9C4EB;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2329.9749999999995" y="2631.2" as="sourcePoint" />
+            <mxPoint x="-2344.91" y="2651.2" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Outt-eAOpPufW3IrGUDu-11" value="an extension of story im too lazy to do" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;autosize=0;fontColor=#080808;rotation=0;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="-2474.87" y="2660" width="279.87" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Outt-eAOpPufW3IrGUDu-13" value="the spirit reveals that you have a stronger core because of god&#39;s blessings" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" vertex="1" parent="1">
+          <mxGeometry x="-2464.87" y="2730" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Outt-eAOpPufW3IrGUDu-20" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFD966;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="Outt-eAOpPufW3IrGUDu-15" target="Outt-eAOpPufW3IrGUDu-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Outt-eAOpPufW3IrGUDu-15" value="with power from god&#39;s crystals, you manage to defeat the spirit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" vertex="1" parent="1">
+          <mxGeometry x="-1908.86" y="2791.2" width="262.37" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Outt-eAOpPufW3IrGUDu-21" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#66F5FF;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="Outt-eAOpPufW3IrGUDu-17" target="Outt-eAOpPufW3IrGUDu-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Outt-eAOpPufW3IrGUDu-17" value="with much difficulty, you manage to defeat the spirit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" vertex="1" parent="1">
+          <mxGeometry x="-1578.7299999999998" y="2791.2" width="262.37" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Outt-eAOpPufW3IrGUDu-23" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFD966;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="Outt-eAOpPufW3IrGUDu-19" target="Outt-eAOpPufW3IrGUDu-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Outt-eAOpPufW3IrGUDu-19" value="you free and return the stolen cores to their rightful owners" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" vertex="1" parent="1">
+          <mxGeometry x="-1735.04" y="2941.2" width="262.37" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Outt-eAOpPufW3IrGUDu-25" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFD966;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="Outt-eAOpPufW3IrGUDu-22" target="Outt-eAOpPufW3IrGUDu-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Outt-eAOpPufW3IrGUDu-27" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#7DFF69;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="Outt-eAOpPufW3IrGUDu-22" target="Outt-eAOpPufW3IrGUDu-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Outt-eAOpPufW3IrGUDu-29" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#66F5FF;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="Outt-eAOpPufW3IrGUDu-22" target="Outt-eAOpPufW3IrGUDu-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Outt-eAOpPufW3IrGUDu-22" value="the world is saved" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" vertex="1" parent="1">
+          <mxGeometry x="-1735.04" y="3081.2" width="262.37" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Outt-eAOpPufW3IrGUDu-24" value="&amp;nbsp;you become god&#39;s representative (or figurehead) for the newly formed god&#39;s religion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" vertex="1" parent="1">
+          <mxGeometry x="-1735.04" y="3221.2" width="262.37" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Outt-eAOpPufW3IrGUDu-26" value="you receive recognision from the villagers for your effort and become a respected figure in the newly found religion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" vertex="1" parent="1">
+          <mxGeometry x="-2052.41" y="3221.2" width="262.37" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Outt-eAOpPufW3IrGUDu-28" value="while some villagers created a religion, you too also become a respectable hero who defeated the spirit without relying on god&#39;s power" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;autosize=0;" vertex="1" parent="1">
+          <mxGeometry x="-1420.04" y="3211.2" width="285" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Outt-eAOpPufW3IrGUDu-31" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#A9C4EB;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="Outt-eAOpPufW3IrGUDu-30" target="Outt-eAOpPufW3IrGUDu-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Outt-eAOpPufW3IrGUDu-30" value="a bit awkwardly phrased&lt;div&gt;technically protagonist also used god&#39;s power to solve puzzles and fight?&lt;/div&gt;&lt;div&gt;idk man O|&amp;lt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;autosize=0;fontColor=#080808;aspect=fixed;rotation=0;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="-1259.9399999999998" y="3001.2" width="324.99" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Outt-eAOpPufW3IrGUDu-32" value="a bit long&lt;div&gt;just a bit &#39; -&#39;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;autosize=0;fontColor=#080808;aspect=fixed;rotation=0;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="-1700.03" y="3390" width="194.99" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

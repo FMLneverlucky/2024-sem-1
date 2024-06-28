@@ -1,0 +1,21 @@
+main goal:
+guide the players from start to finish while maintaining stealth
+
+looking for:
+use of 3d level design principles (not excluding 2d)
+- depth and use of camera to create tension
+- level design and how spatial composition to give players enough information to sneak around obstacles/ place
+- lighting (to guide/ get player attention)
+- pacing and difficulty progression
+
+rubrics:
+- overall progression
+>how player learn certain mechanics
+- design elements
+> use of props to guide players where to go
+- spatial composition
+> use of design elements to convey intentions to player
+- functional lighting
+> use of lights to get players attention/ guide player on what to do
+
+**don't want to see any sort of prompt**

@@ -1,0 +1,6 @@
+can use deadends to lure players using certainty and uncertainty
+- deadends can encourage exploration
+- provide rewards so players don't feel unrewarded for exploration
+
+if path is stuck, give players option to explore
+if path is not stuck, give players option to consider risk and reward
