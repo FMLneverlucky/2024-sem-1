@@ -1,0 +1,20 @@
+NEWater is nano tech process 
+-> uses nano structured filters
+desalination of sea water into clear water
+there are sensors to detect contamination of water - called nano sensors
+water scarce countries use desalination to obtain fresh water - middle east/ deserts, where it only rain once or twice a year
+
+filters
+-> make use of membranes to filter the water
+-> e.g. carbon nanotube
+
+nano sensors
+-> detect harmful particles in water
+-> cantilever 
+- some part are fixed while others are flexible so (vibrations) can detect presence of unwanted agents
+- (vibrations) --> makes use of resonance frequency**
+- swim diving board surface
+
+nano filtration
+- e.g. lifestraw - a product to drink river water
+- 
